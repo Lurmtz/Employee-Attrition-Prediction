@@ -46,9 +46,3 @@ This repository contains my final project for the Neoland Data Analytics Bootcam
 - experience
 - city_development_index
 
----
-
-## 🚀 Next Steps
-- Test additional models and hyperparameter tuning
-- Integrate the model with a web interface or API for real-time predictions
-- Expand the dataset with more historical data
